@@ -1,0 +1,10 @@
+{
+    "name": "Windowed Mode",
+    "version": "0.3.0",
+    "author": "LosslessProxy Team",
+    "description": "Enables windowed mode for Lossless Scaling by injecting a virtual monitor. Supports split-screen and window positioning modes.",
+    "min_host_version": "0.3.0",
+    "dependencies": [],
+    "tags": ["windowed", "display", "split-screen", "positioning"],
+    "dll": "LSP_Windowed.dll"
+}
