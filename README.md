@@ -1,4 +1,4 @@
-# LosslessProxy v2.0.0
+# LosslessProxy v0.3.0
 
 A transparent DLL proxy for [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) that adds a plugin/addon system without modifying the original application.
 
@@ -168,7 +168,7 @@ addons/
     "version": "1.0.0",
     "author": "Author Name",
     "description": "What it does",
-    "min_host_version": "2.0.0",
+    "min_host_version": "0.3.0",
     "dependencies": [],
     "tags": ["category"],
     "dll": "CustomName.dll",
