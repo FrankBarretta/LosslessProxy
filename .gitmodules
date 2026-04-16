@@ -1,6 +1,0 @@
-[submodule "addons/LSP-Windowed"]
-	path = addons/LSP-Windowed
-	url = https://github.com/FrankBarretta/LSP-Windowed.git
-[submodule "addons/LSP-ReShade"]
-	path = addons/LSP-ReShade
-	url = https://github.com/FrankBarretta/LSP-ReShade.git
